@@ -1,6 +1,6 @@
 ## Example #1 - Folder Structure
 
-|Folder Name| Explanation|
+|Folder's Name| Description|
 |--|--|
 |  controllers| Receive data from <b>service</b> and return it back to <b>view</b> |
 |  helpers| Reusable Function |
